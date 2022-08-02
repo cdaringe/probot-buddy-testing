@@ -1,4 +1,3 @@
-features:
-  - autolabel
-  - stalemaybe
+enabled_features:
+  - bot-pr-merge
   - merge-queue
